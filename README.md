@@ -17,3 +17,4 @@ Additionally, the project includes a separate *Admin Hungers' Den* app, tailored
 - *Admin Profile Updates*: Maintain and modify admin profile information.
 
 Both applications utilize Firebase for robust authentication and database management, ensuring secure and reliable data handling. This project showcases advanced Android development skills, focusing on user experience and administrative efficiency.
+Both apps contains a lot of more features in it.
