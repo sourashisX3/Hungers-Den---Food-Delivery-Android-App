@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Hungers\' Den</string>
+    <string name="enjoy_restaurant_quality_food_nat_home">Enjoy Restaurant quality Food\nat Home!</string>
+    <string name="next">Next</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="or">Or</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login_to_your_account">Login To Your Account</string>
+    <string name="deliver_favourite_food">Deliver Favourite Food</string>
+    <string name="hungers_den1">Hungers\' Den</string>
+    <string name="login">Login</string>
+    <string name="designed_by_nsourashis_das">Designed by\nSourashis Das</string>
+    <string name="sign_up_here">Sign Up Here!</string>
+    <string name="continue_with">Continue With</string>
+    <string name="don_t_have_account">Don\'t have Account?</string>
+    <string name="name">Name</string>
+    <string name="create_account">Create Account</string>
+    <string name="choose_location">Choose Location</string>
+    <string name="login_page_description">\"To provide you with the best dining experience, we need your permission to access your device\'s loaction. By enabling location services, we can offer personalized restaurant recommendations, accurate delivery estimates, and ensure a seamless food delivery experience.\"</string>
+    <string name="choose_your_location">Choose Your Location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="explore_your_favourite_food">Explore Your Favourite Food</string>
+    <string name="home">Home</string>
+    <string name="cart">Cart</string>
+    <string name="history">History</string>
+    <string name="profile">Profile</string>
+    <string name="search">Search</string>
+    <string name="popular">Popular</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="_150">₹150</string>
+    <string name="view_menu">View Menu</string>
+    <string name="food_name">Food Name</string>
+    <string name="_1">1</string>
+    <string name="textview">TextView</string>
+    <string name="recent_buy">Recent Buy</string>
+    <string name="save_information">Save Information</string>
+    <string name="admin">Admin</string>
+    <string name="admin1234_gmail_com">admin1234@gmail.com</string>
+    <string name="edit">Edit</string>
+    <string name="place_my_order">Place My Order</string>
+    <string name="address">Address</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="go_home">Go Home</string>
+</resources>
