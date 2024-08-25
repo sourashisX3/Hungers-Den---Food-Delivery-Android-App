@@ -23,7 +23,7 @@ Both apps contains a lot of more features in it.
 Kotlin, XMl
 # Tools: 
 Android Studio (2024.1.1), Firebase- Auth, Database 
-# Screenshots of the apps
+# Some Screenshots of both apps
 ![1](https://github.com/user-attachments/assets/c48997c0-d1c8-4ec1-bd1d-6fbdeae898ef)
 ![2](https://github.com/user-attachments/assets/cafd8e5e-454c-471d-9577-8ff977fb9708)
 ![3](https://github.com/user-attachments/assets/397664c3-d000-484c-b4d8-56d58920e3fc)
