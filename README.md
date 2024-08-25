@@ -19,8 +19,10 @@ Additionally, the project includes a separate *Admin Hungers' Den* app, tailored
 Both applications utilize Firebase for robust authentication and database management, ensuring secure and reliable data handling. This project showcases advanced Android development skills, focusing on user experience and administrative efficiency.
 Both apps contains a lot of more features in it.
 # Tools and Technologies
-Languages: Kotlin, XMl
-Tools: Android Studio (2024.1.1), Firebase- Auth, Database 
+# Languages: 
+Kotlin, XMl
+# Tools: 
+Android Studio (2024.1.1), Firebase- Auth, Database 
 # Screenshots of the apps
 ![1](https://github.com/user-attachments/assets/c48997c0-d1c8-4ec1-bd1d-6fbdeae898ef)
 ![2](https://github.com/user-attachments/assets/cafd8e5e-454c-471d-9577-8ff977fb9708)
