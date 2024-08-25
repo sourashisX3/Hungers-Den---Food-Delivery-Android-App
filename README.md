@@ -20,7 +20,7 @@ Both applications utilize Firebase for robust authentication and database manage
 Both apps contains a lot of more features in it.
 # Tools and Technologies
 # Languages: 
-Kotlin, XMl
+Kotlin, XML
 # Tools: 
 Android Studio (2024.1.1), Firebase- Auth, Database 
 # Some Screenshots of both apps
