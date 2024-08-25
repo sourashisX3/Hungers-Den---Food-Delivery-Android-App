@@ -1,0 +1,23 @@
+<resources>
+    <string name="default_web_client_id" translatable="false">972173143527-bs9cq69ieftg8tn1fd9fnme4ipu1ucjr.apps.googleusercontent.com</string>
+    <string name="app_name">Admin Hungers\' Den</string>
+    <string name="designed_by_nsourashis_das">Designed by\nSourashis Das</string>
+    <string name="admin_dashboard">Admin Dashboard</string>
+    <string name="hungers_den">Hungers\' Den</string>
+    <string name="signup_for_your_admin_dashboard">Sign Up Here for Your\nAdmin Dashboard</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="or_continue_with">Or\nContinue With</string>
+    <string name="google">Google</string>
+    <string name="facebook">Facebook</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account">Don\'t have an Account?</string>
+    <string name="choose_your_location">Choose Your Location</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="create_account">Create Account</string>
+    <string name="login_to_your_admin_dashboard">Login to Your\nAdmin Dashboard</string>
+    <string name="pending_order">Pending\nOrder</string>
+    <string name="_30">30</string>
+    <string name="enter_food_name">Enter Food Name</string>
+    <string name="enter_food_price">Enter Food Price</string>
+</resources>
