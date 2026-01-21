@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Text Sizes -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_normal">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_xxlarge">24sp</dimen>
+    <dimen name="text_size_title">28sp</dimen>
+    <dimen name="text_size_headline">32sp</dimen>
+
+    <!-- Padding & Margins -->
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_normal">12dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">20dp</dimen>
+    <dimen name="spacing_xlarge">24dp</dimen>
+    <dimen name="spacing_xxlarge">32dp</dimen>
+
+    <!-- Button Heights -->
+    <dimen name="button_height">48dp</dimen>
+    <dimen name="button_height_large">56dp</dimen>
+
+    <!-- Icon Sizes -->
+    <dimen name="icon_size_small">16dp</dimen>
+    <dimen name="icon_size_normal">24dp</dimen>
+    <dimen name="icon_size_medium">32dp</dimen>
+    <dimen name="icon_size_large">48dp</dimen>
+
+    <!-- Card Radius -->
+    <dimen name="card_radius_small">8dp</dimen>
+    <dimen name="card_radius_normal">12dp</dimen>
+    <dimen name="card_radius_large">16dp</dimen>
+
+    <!-- Elevation -->
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_normal">4dp</dimen>
+    <dimen name="elevation_large">8dp</dimen>
+
+    <!-- Item Heights -->
+    <dimen name="item_height_small">80dp</dimen>
+    <dimen name="item_height_normal">100dp</dimen>
+    <dimen name="item_height_large">120dp</dimen>
+
+    <!-- Image Sizes -->
+    <dimen name="image_size_small">60dp</dimen>
+    <dimen name="image_size_normal">80dp</dimen>
+    <dimen name="image_size_medium">100dp</dimen>
+    <dimen name="image_size_large">120dp</dimen>
+</resources>

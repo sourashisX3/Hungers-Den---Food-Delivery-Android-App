@@ -15,9 +15,9 @@
 
         <ImageButton
             android:id="@+id/imageButton"
-            android:layout_width="24dp"
-            android:layout_height="24dp"
-            android:layout_marginStart="16dp"
+            android:layout_width="@dimen/icon_size_normal"
+            android:layout_height="@dimen/icon_size_normal"
+            android:layout_marginStart="@dimen/spacing_medium"
             android:layout_marginTop="16dp"
             android:background="@android:color/transparent"
             android:scaleType="centerCrop"

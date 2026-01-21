@@ -10,9 +10,9 @@
     <!-- TODO: Update blank fragment layout -->
     <ImageButton
         android:id="@+id/buttonBack"
-        android:layout_width="24dp"
-        android:layout_height="24dp"
-        android:layout_marginTop="15dp"
+        android:layout_width="@dimen/icon_size_normal"
+        android:layout_height="@dimen/icon_size_normal"
+        android:layout_marginTop="@dimen/spacing_medium"
         android:layout_marginStart="15dp"
         android:background="@android:color/transparent"
         android:src="@drawable/back_icon1"

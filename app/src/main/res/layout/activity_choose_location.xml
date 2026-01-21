@@ -12,12 +12,12 @@
         android:id="@+id/textView12"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginStart="16dp"
-        android:layout_marginTop="32dp"
+        android:layout_marginStart="@dimen/spacing_medium"
+        android:layout_marginTop="@dimen/spacing_large"
         android:fontFamily="@font/cabalbold"
         android:text="@string/choose_your_location"
-        android:textColor="@color/black"
-        android:textSize="25sp"
+        android:textColor="@color/textPrimary"
+        android:textSize="@dimen/text_size_xxlarge"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 

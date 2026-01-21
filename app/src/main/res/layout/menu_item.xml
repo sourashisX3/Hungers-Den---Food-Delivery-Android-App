@@ -4,19 +4,20 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:background="@color/white"
+    android:background="@color/backgroundColor"
     android:gravity="center"
     android:orientation="vertical">
 
     <androidx.cardview.widget.CardView
-        android:layout_width="350dp"
-        android:layout_height="87dp"
-        android:layout_marginStart="8dp"
-        android:layout_marginTop="8dp"
-        android:layout_marginEnd="8dp"
-        android:layout_marginBottom="8dp"
-        app:cardCornerRadius="22dp"
-        app:cardElevation="4dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing_small"
+        android:layout_marginTop="@dimen/spacing_small"
+        android:layout_marginEnd="@dimen/spacing_small"
+        android:layout_marginBottom="@dimen/spacing_small"
+        app:cardBackgroundColor="@color/cardBackground"
+        app:cardCornerRadius="@dimen/card_radius_normal"
+        app:cardElevation="@dimen/elevation_normal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,7 +26,9 @@
         <androidx.constraintlayout.widget.ConstraintLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:elevation="6dp">
+            android:minHeight="@dimen/item_height_small"
+            android:elevation="@dimen/elevation_normal"
+            android:padding="@dimen/spacing_normal">
 
             <TextView
                 android:id="@+id/menuFoodName"
