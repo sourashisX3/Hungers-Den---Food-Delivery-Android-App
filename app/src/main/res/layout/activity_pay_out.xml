@@ -1,24 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical"
-    tools:context=".PayOutActivity"
-    android:background="@color/white">
+    android:fillViewport="true"
+    android:background="@color/backgroundColor"
+    tools:context=".PayOutActivity">
+
+<FrameLayout
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:orientation="vertical">
+        android:orientation="vertical"
+        android:paddingBottom="@dimen/spacing_xxlarge">
 
         <ImageButton
             android:id="@+id/backButton"
-            android:layout_width="32dp"
-            android:layout_height="32dp"
-            android:layout_marginStart="16dp"
-            android:layout_marginTop="32dp"
+            android:layout_width="@dimen/icon_size_medium"
+            android:layout_height="@dimen/icon_size_medium"
+            android:layout_marginStart="@dimen/spacing_medium"
+            android:layout_marginTop="@dimen/spacing_large"
             android:background="@android:color/transparent"
             android:scaleType="centerCrop"
             android:src="@drawable/back_icon1"
@@ -209,7 +215,6 @@
                 android:textColor="@color/textColor"
                 android:textSize="20sp" />
         </LinearLayout>
-    </LinearLayout>
 
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/placeMyOrderButton"
@@ -226,4 +231,6 @@
         android:textColor="@color/textColor"
         android:textSize="20sp" />
 
+    </LinearLayout>
 </FrameLayout>
+</ScrollView>

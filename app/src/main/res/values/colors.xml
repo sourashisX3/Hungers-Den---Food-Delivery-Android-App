@@ -9,4 +9,13 @@
     <color name="endColor">#ffb300</color>
     <color name="greenColor">#4caf50</color>
     <color name="redColor">#f44336</color>
+
+    <!-- Additional Modern Colors -->
+    <color name="backgroundColor">#F5F5F5</color>
+    <color name="cardBackground">#FFFFFF</color>
+    <color name="textPrimary">#212121</color>
+    <color name="textSecondary">#757575</color>
+    <color name="textHint">#BDBDBD</color>
+    <color name="divider">#E0E0E0</color>
+    <color name="overlay">#80000000</color>
 </resources>
